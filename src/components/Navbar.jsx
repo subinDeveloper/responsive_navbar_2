@@ -7,7 +7,7 @@ const Navbar = () => {
     // console.log(exptendNavbar);
     
   return (
-    <div className=" bg-cyan-300 text-black h-20">
+    <div className=" bg-cyan-300 text-black h-20 px-6">
      <div className="max-w-7xl flex justify-between items-center h-20 mx-auto">
         <h1 className="text-5xl font-semibold">Logo</h1>
         <div className="flex gap-6 items-center">
